@@ -1,0 +1,24 @@
+.APropos a {
+  color: #3f51b5;
+  transition: .1s;
+}
+
+.APropos a:hover {
+  color: #e74c3c;
+}
+
+h1 {
+  color: #3f51b5;
+}
+
+h2 {
+  color: #3f51b5;
+}
+
+h3 {
+  color: #3f51b5;
+}
+
+ul {
+  listStyle: none;
+}
