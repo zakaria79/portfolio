@@ -55,7 +55,7 @@ const APropos = props => {
             php.net
           </a>
         </li>
-        <li style={{color: 'gray', fontStyle: 'italic'}}>
+        <li style={{ color: 'gray', fontStyle: 'italic' }}>
           &nbsp;et beaucoup d'autres...
         </li>
       </ul>
@@ -105,8 +105,6 @@ const APropos = props => {
 
       <RealisationsI2SI />
 
-      <h3>Août 2019</h3>
-      <p>Développeur Fullstack Indépendant</p>
       <ContactForm />
     </div>
   );
